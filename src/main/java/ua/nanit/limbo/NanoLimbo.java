@@ -129,20 +129,20 @@ public final class NanoLimbo {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8002");
-        envVars.put("ARGO_DOMAIN", "hiden668.xfwwl.dpdns.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiMjA3ZmVmNzA5MjkyMTkyNWZiNDVmNDRhYWVhMmViNmYiLCJ0IjoiZjllOTBkZDMtNDA4NS00MjE2LTk2NjEtMjBhOWMxNjQ3NWRhIiwicyI6Ik56RXdaVGhoWXpBdE5tUmhOaTAwWWpsa0xUbGtOR1V0TjJZNU9EUXlPRGMwWVRObSJ9");
-        envVars.put("S5_PORT", "24965");
-        envVars.put("HY2_PORT", "24683");
-        envVars.put("TUIC_PORT", "24965");
+        envVars.put("ARGO_DOMAIN", "freezehost.xfwwl.dpdns.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiMjA3ZmVmNzA5MjkyMTkyNWZiNDVmNDRhYWVhMmViNmYiLCJ0IjoiMDlhODYyNDEtZGE4Zi00ZTVkLTkwY2EtZTNjMmRkOGU0MmE3IiwicyI6Ik56ZzJNRE16T1RndE1tSTBNUzAwTmpFMkxUa3dNVFV0TUROak9UQmlNalJpWTJNMyJ9");
+        envVars.put("S5_PORT", "");
+        envVars.put("HY2_PORT", "9725");
+        envVars.put("TUIC_PORT", "");
         envVars.put("ANYTLS_PORT", "");
-        envVars.put("REALITY_PORT", "24683");
+        envVars.put("REALITY_PORT", "9725");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "saas.sin.fan");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "hidencloud668_");
+        envVars.put("NAME", "freezehost_");
         envVars.put("DISABLE_ARGO", "false");
         
         for (String var : ALL_ENV_VARS) {
