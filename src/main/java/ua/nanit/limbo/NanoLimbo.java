@@ -142,7 +142,7 @@ public final class NanoLimbo {
         envVars.put("BOT_TOKEN", "");          // telegram bot token,节点推送到telegram使用
         envVars.put("CFIP", "172.64.145.202");      // 优选域名或获选ip
         envVars.put("CFPORT", "443");          // 优选域名或获选ip对应端口
-        envVars.put("NAME", "cereshost168_");               // 节点备注名称
+        envVars.put("NAME", "dracobyte668_");               // 节点备注名称
         envVars.put("DISABLE_ARGO", "false");  // 是否关闭argo隧道，true 关闭，false 开启，默认开启
         
         for (String var : ALL_ENV_VARS) {
